@@ -1,6 +1,6 @@
 ## Oii seja bem-vindo!
 
-- 📚 Formada em 3 anos de inglês.
+- 📚 Formada em inglês intermediário.
 - ⏳ Cursando Sesi/Senai Desenvolvimento de Sistemas.
 
 
