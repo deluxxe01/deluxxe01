@@ -18,4 +18,4 @@
   <img width="2" />
 </div>
 
-![snake gif](https://github.com/deluxxe01/deluxxe01/blob/output/github-contribution-grid-snake.gif)
+
