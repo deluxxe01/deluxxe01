@@ -18,4 +18,4 @@
   <img width="2" />
 </div>
 
-
+![Snake animation](https://raw.githubusercontent.com/deluxxe01/deluxxe01/output/github-contribution-grid-snake-dark.svg)
