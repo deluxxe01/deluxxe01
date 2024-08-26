@@ -17,3 +17,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
   <img width="2" />
 </div>
+
+![snake gif](https://github.com/deluxxe01/deluxxe01/blob/output/github-contribution-grid-snake.gif)
