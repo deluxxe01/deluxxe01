@@ -1,4 +1,4 @@
-## Oii seja bem-vindo!
+## Oii seja bem-vindo! [![GitHub followers](https://img.shields.io/github/followers/deluxxe01?label=Follow&style=social)](https://github.com/deluxxe01)
 
 - 📚 Formada em inglês intermediário.
 - ⏳ Cursando Sesi/Senai Desenvolvimento de Sistemas.
@@ -7,7 +7,7 @@
 ## Para contato:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/maria-eduarda-klin-de-carvalho-1647a1307)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dudaklin_?igsh=M2dpNXl0b3dsdG0x&utm_source=qr)
-[![GitHub followers](https://img.shields.io/github/followers/deluxxe01?label=Follow&style=social)](https://github.com/deluxxe01)
+
 
 
 <h3>Códigos e Ferramentas: </h3>
