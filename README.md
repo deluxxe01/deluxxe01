@@ -24,6 +24,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dudaklin_?igsh=M2dpNXl0b3dsdG0x&utm_source=qr)
 
 
+###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/deluxxe01/deluxxe01/output/snake.svg" alt="Snake animation" />
+
+###
 
