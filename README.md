@@ -41,6 +41,7 @@ Seja bem-Vindo! Sou formada em inglês intermediário, e estou cursando Desenvol
 />
 
 </br>
+</br>
 
 ### 📊 Estatísticas
 <div align="center">
