@@ -4,7 +4,7 @@
 
 Seja bem-Vindo! Sou formada em inglês intermediário, e estou cursando Desenvolvimento de Sistemas no Sesi/Senai. 
 
-</br>
+---
 
 ### 🤖 Linguagens e Tecnologias 
 <img 
