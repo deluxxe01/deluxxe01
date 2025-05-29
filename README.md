@@ -1,8 +1,8 @@
-## Oii seja bem-vindo! [![GitHub followers](https://img.shields.io/github/followers/deluxxe01?label=Follow&style=social)](https://github.com/deluxxe01)
+## 👩‍💻 Maria Eduarda Klin de Carvalho
 
-- 📚 Formada em inglês intermediário.
-- ⏳ Cursando Sesi/Senai Desenvolvimento de Sistemas.
+**`Futura desenvolveora FullStack`**
 
+Seja bem-Vindo! Sou formada em inglês intermediário, e estou cursando Desenvolvimento de Sistemas no Sesi/Senai. 
 
 ###
 
@@ -15,17 +15,39 @@
 
 ###
 
-## Códigos e Ferramentas: 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
-  <img width="2" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
-  <img width="2" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
-  <img width="2" />
-</div>
-
-
+## 🤖 Linguagens e Tecnologias 
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
 
 
 
