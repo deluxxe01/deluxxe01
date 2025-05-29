@@ -3,7 +3,7 @@
 **`Futura desenvolveora FullStack`**
 
 Seja bem-Vindo! Sou formada em inglês intermediário, e estou cursando Desenvolvimento de Sistemas no Sesi/Senai. 
-
+###
 
 ### 🤖 Linguagens e Tecnologias 
 <img 
@@ -38,6 +38,8 @@ Seja bem-Vindo! Sou formada em inglês intermediário, e estou cursando Desenvol
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
+
+###
 
 ### 📊 Estatísticas
 <div align="center">
